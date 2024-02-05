@@ -1,4 +1,4 @@
-#Description of the Project
+# Description of the Project
 
 The issue of inaccessible diet plans, which currently plagues fitness enthusiasts, individuals adhering to specific dietary regimens, and those unable to afford expensive diet programs or attend gym facilities, warrants attention. Addressing this matter would liberate a substantial portion of the population from dependence on gym facilities for their fitness and dietary needs.
 While cultural and religious constraints may impact diet plans, particularly concerning food items like meat, ensuring easy access to nutritional information would, at the very least, promote awareness among diverse groups of people.
